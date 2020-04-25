@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Juan",
+      "age": 10,
+      "works_at": 1
+    },
+    {
+      "id": 2,
+      "name": "Pedro",
+      "age": 11,
+      "works_at": 1
+    },
+    {
+      "id": 3,
+      "name": "Pablo",
+      "age": 12,
+      "works_at": 2
+    },
+    {
+      "id": 4,
+      "name": "Sergio",
+      "age": 13,
+      "works_at": 2
+    },
+    {
+      "id": 5,
+      "name": "Carlos",
+      "age": 14,
+      "works_at": 3
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Company One"
+    },
+    {
+      "id": 2,
+      "name": "Company Two"
+    },
+    {
+      "id": 3,
+      "name": "Company Three"
+    }
+  ]
+}
